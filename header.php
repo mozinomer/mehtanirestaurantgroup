@@ -43,7 +43,7 @@
 					<?php 
 						wp_nav_menu(array( 
 							'theme_location' => 'header-menu', 
-							'container_class' => 'custom-menu-class' 
+							'container_class' => 'header-menu' 
 						));
 					?>
 				</div>
