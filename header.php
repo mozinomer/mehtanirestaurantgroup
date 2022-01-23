@@ -13,7 +13,7 @@
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
 	integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css">
 	<?php wp_head(); ?>
 </head>
@@ -40,11 +40,16 @@
 					</a>
 				</div>
 				<div class="mainMenuContainer" id="mainMenuContainer">
+					<div id="hamburger">
+						<span class="first"></span>
+						<span class="second"></span>
+						<span class="third"></span>
+					</div>
 					<?php 
-						wp_nav_menu(array( 
-							'theme_location' => 'header-menu', 
-							'container_class' => 'header-menu' 
-						));
+					wp_nav_menu(array( 
+						'theme_location' => 'header-menu', 
+						'container_class' => 'header-menu' 
+					));
 					?>
 				</div>
 			</div>

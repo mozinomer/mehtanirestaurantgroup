@@ -5,3 +5,8 @@ $('.sliderContainerHome, .sliderSection1, .sliderTestimonials, .sliderContainerM
 $('.modal').on('shown.bs.modal', function (e) {
 	$('.sliderContainerModal').resize();
 })
+$('div#hamburger').click( function(e) {
+	$(this).toggleClass('active');	
+	$('.header-menu').toggleClass('active');
+
+})
