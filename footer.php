@@ -63,7 +63,7 @@
 						<h3>Join Our Mailing List</h3>
 						<p>Sign up below to get all of our latest news, deals and special offers</p>
 						<div class="fromSignUp">
-							<input type="emial" name="" placeholder="Please proivde us with your Email">
+							<input type="email" name="" placeholder="Please proivde us with your Email">
 							<button type="submit">Sign Up</button>
 						</div>
 					</div>

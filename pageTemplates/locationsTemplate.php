@@ -10,7 +10,7 @@ get_header(); ?>
 				<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
 				<div class="contentOnslide">
 					<h2>
-						<span>Our Locations</span> - Mughlai Restaurant Group
+						Our Locations - Mughlai Restaurant Group
 					</h2>
 				</div>
 			</div>
@@ -22,7 +22,7 @@ get_header(); ?>
 		<!-- <h2><span class="boxo"></span>
 			<span>Our</span> Locations
 		</h2> -->
-		<div class="row">
+		<div class="row align-items-center">
 			<div class="col-md-4">
 				<div class="boxContainer">
 					<div class="imageBackgroundContainer">
