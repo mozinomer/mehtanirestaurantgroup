@@ -72,6 +72,7 @@
 		</div>
 	</div>
 	<div class="footerCopyRIght">
+		<a href="#" class="backtoTop"></a>
 		<div class="container">
 			<?php 
 			wp_nav_menu(array( 

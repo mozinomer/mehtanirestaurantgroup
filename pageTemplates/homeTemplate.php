@@ -22,7 +22,7 @@ get_header(); ?>
 <div class="contentHomepage">
 	<div id="section1">
 		<div class="container">
-			<h2><span>Welcome</span> to Mehtani Restaurant Group</h2>
+			<h2><span class="boxo"></span><span>Welcome</span> to Mehtani Restaurant Group</h2>
 			<div class="row align-items-center">
 				<div class="col-md-6">
 					<div class="contentSection1">
@@ -50,7 +50,7 @@ get_header(); ?>
 	</div>
 	<div id="section2">
 		<div class="container">
-			<h2>
+			<h2><span class="boxo"></span>
 				<span>Our</span> Locations
 			</h2>
 			<div class="row">
@@ -131,7 +131,7 @@ get_header(); ?>
 	</div>
 	<div class="testimonials reversed">
 		<div class="container">
-			<h2>
+			<h2><span class="boxo"></span>
 				<span>Other</span> Visitor's Experiences
 			</h2>
 			<div class="sliderTestimonials">
