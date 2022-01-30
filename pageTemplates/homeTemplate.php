@@ -22,13 +22,13 @@ get_header(); ?>
 <div class="contentHomepage">
 	<div id="section1">
 		<div class="container">
-			<h2><span class="boxo"></span><span>Welcome</span> to Mehtani Restaurant Group</h2>
+			<h2><span class="boxo"></span><span>Welcome</span> to Mughlai Restaurant Group</h2>
 			<div class="row align-items-center">
 				<div class="col-md-6">
 					<div class="contentSection1">
-						<p>Sneh Mehtani opened her first restaurant, “The Moghul Room,” in New York City’s Pennsylvania Hotel in 1983.</p>
-						<p>Having no industry specific knowledge, she learned on her feet as she put together a remarkable group of chefs and gained respect from her customers and industry professionals alike.</p>
-						<p>In 1990 she asked her husband, Satish, to help her expand to Edison, New Jersey, a small suburb of Manhattan that had relatively few Indian immigrants at the time.</p>
+						<p>With 20 years of experience cooking in the finest restaurants, our chef is excited to present their vision to you and all our guests. Our caring and committed staff make sure you have a fantastic experience with us.</p>
+						<p>We have worked to package our meals in a way that lets you bring the quality of our meals into your home. We always love to see you in person, but even when we can't we ensure that your dining experience is top notch!</p>
+						<p>We refuse to compromise on quality in our restaurant. That's why we source our fresh ingredients from local farmers' markets. No matter what time of year, you can be sure you're eating the best of the season.</p>
 						<a href="#" class="classicButton">Read More</a>
 					</div>
 				</div>
@@ -60,9 +60,9 @@ get_header(); ?>
 							<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
 						</div>
 						<div class="contentboxContainer">
-							<h3>Mirage</h3>
-							<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-							<a href="#" class="classicButton">View Details</a>
+							<h3>Mughlai Dallas</h3>
+							<p>With 20 years of experience cooking in the finest restaurants, our chef is excited to present their vision to you and all our guests. Our caring and committed staff make sure you have a fantastic experience with us.</p>
+							<a href="https://mughlaidfw.square.site/" class="classicButton">View Details</a>
 						</div>
 					</div>
 				</div>
@@ -72,9 +72,9 @@ get_header(); ?>
 							<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
 						</div>
 						<div class="contentboxContainer">
-							<h3>Mirage</h3>
-							<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-							<a href="#" class="classicButton">View Details</a>
+							<h3>Mughlai Southlake</h3>
+							<p>We have worked to package our meals in a way that lets you bring the quality of our meals into your home. We always love to see you in person, but even when we can't we ensure that your dining experience is top notch!</p>
+							<a href="https://mughlaidfw.square.site/" class="classicButton">View Details</a>
 						</div>
 					</div>
 				</div>
@@ -84,45 +84,9 @@ get_header(); ?>
 							<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
 						</div>
 						<div class="contentboxContainer">
-							<h3>Mirage</h3>
-							<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-							<a href="#" class="classicButton">View Details</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="boxContainer">
-						<div class="imageBackgroundContainer">
-							<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
-						</div>
-						<div class="contentboxContainer">
-							<h3>Mirage</h3>
-							<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-							<a href="#" class="classicButton">View Details</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="boxContainer">
-						<div class="imageBackgroundContainer">
-							<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
-						</div>
-						<div class="contentboxContainer">
-							<h3>Mirage</h3>
-							<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-							<a href="#" class="classicButton">View Details</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="boxContainer">
-						<div class="imageBackgroundContainer">
-							<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
-						</div>
-						<div class="contentboxContainer">
-							<h3>Mirage</h3>
-							<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-							<a href="#" class="classicButton">View Details</a>
+							<h3>Mughlai Frisco</h3>
+							<p>We refuse to compromise on quality in our restaurant. That's why we source our fresh ingredients from local farmers' markets. No matter what time of year, you can be sure you're eating the best of the season.</p>
+							<a href="https://mughlaidfw.square.site/" class="classicButton">View Details</a>
 						</div>
 					</div>
 				</div>

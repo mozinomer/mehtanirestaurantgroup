@@ -920,6 +920,18 @@
 	.aboutUs {
 		margin: 0px 0px 100px;
 	}
+	.contentOnslide h2 a {
+		/* display: flex; */
+		/* align-items: center; */
+		/* justify-content: center; */
+		font-size: 14px;
+		margin: 20px auto 0px;
+	}
+
+	.contentOnslide h2 a:hover {
+		border-color: #fff;
+		color: #fff;
+	}
 	@media only screen and (max-width: 767px) {
 		div#mainMenuContainer {
 			/* display: none; */

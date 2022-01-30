@@ -29,7 +29,7 @@ get_header(); ?>
 							</div>
 							<div class="contentBlogBox">
 								<h3>
-									Sneh Mehtani wins NJ hospitality award
+									Sneh Mughlai wins NJ hospitality award
 								</h3>
 								<h5>
 									<ul>
@@ -38,7 +38,7 @@ get_header(); ?>
 										<li>1 Comment</li>
 									</ul>
 								</h5>
-								<p>“Mehtani is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
+								<p>“Mughlai is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
 								<a href="#" class="classicButton">Read More</a>
 							</div>
 						</div>
@@ -50,7 +50,7 @@ get_header(); ?>
 							</div>
 							<div class="contentBlogBox">
 								<h3>
-									Sneh Mehtani wins NJ hospitality award
+									Sneh Mughlai wins NJ hospitality award
 								</h3>
 								<h5>
 									<ul>
@@ -59,7 +59,7 @@ get_header(); ?>
 										<li>1 Comment</li>
 									</ul>
 								</h5>
-								<p>“Mehtani is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
+								<p>“Mughlai is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
 								<a href="#" class="classicButton">Read More</a>
 							</div>
 						</div>
@@ -71,7 +71,7 @@ get_header(); ?>
 							</div>
 							<div class="contentBlogBox">
 								<h3>
-									Sneh Mehtani wins NJ hospitality award
+									Sneh Mughlai wins NJ hospitality award
 								</h3>
 								<h5>
 									<ul>
@@ -80,7 +80,7 @@ get_header(); ?>
 										<li>1 Comment</li>
 									</ul>
 								</h5>
-								<p>“Mehtani is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
+								<p>“Mughlai is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
 								<a href="#" class="classicButton">Read More</a>
 							</div>
 						</div>
@@ -92,7 +92,7 @@ get_header(); ?>
 							</div>
 							<div class="contentBlogBox">
 								<h3>
-									Sneh Mehtani wins NJ hospitality award
+									Sneh Mughlai wins NJ hospitality award
 								</h3>
 								<h5>
 									<ul>
@@ -101,7 +101,7 @@ get_header(); ?>
 										<li>1 Comment</li>
 									</ul>
 								</h5>
-								<p>“Mehtani is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
+								<p>“Mughlai is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
 								<a href="#" class="classicButton">Read More</a>
 							</div>
 						</div>
@@ -113,7 +113,7 @@ get_header(); ?>
 							</div>
 							<div class="contentBlogBox">
 								<h3>
-									Sneh Mehtani wins NJ hospitality award
+									Sneh Mughlai wins NJ hospitality award
 								</h3>
 								<h5>
 									<ul>
@@ -122,7 +122,7 @@ get_header(); ?>
 										<li>1 Comment</li>
 									</ul>
 								</h5>
-								<p>“Mehtani is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
+								<p>“Mughlai is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
 								<a href="#" class="classicButton">Read More</a>
 							</div>
 						</div>
@@ -134,7 +134,7 @@ get_header(); ?>
 							</div>
 							<div class="contentBlogBox">
 								<h3>
-									Sneh Mehtani wins NJ hospitality award
+									Sneh Mughlai wins NJ hospitality award
 								</h3>
 								<h5>
 									<ul>
@@ -143,7 +143,7 @@ get_header(); ?>
 										<li>1 Comment</li>
 									</ul>
 								</h5>
-								<p>“Mehtani is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
+								<p>“Mughlai is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
 								<a href="#" class="classicButton">Read More</a>
 							</div>
 						</div>
@@ -155,7 +155,7 @@ get_header(); ?>
 							</div>
 							<div class="contentBlogBox">
 								<h3>
-									Sneh Mehtani wins NJ hospitality award
+									Sneh Mughlai wins NJ hospitality award
 								</h3>
 								<h5>
 									<ul>
@@ -164,7 +164,7 @@ get_header(); ?>
 										<li>1 Comment</li>
 									</ul>
 								</h5>
-								<p>“Mehtani is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
+								<p>“Mughlai is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
 								<a href="#" class="classicButton">Read More</a>
 							</div>
 						</div>
@@ -176,7 +176,7 @@ get_header(); ?>
 							</div>
 							<div class="contentBlogBox">
 								<h3>
-									Sneh Mehtani wins NJ hospitality award
+									Sneh Mughlai wins NJ hospitality award
 								</h3>
 								<h5>
 									<ul>
@@ -185,7 +185,7 @@ get_header(); ?>
 										<li>1 Comment</li>
 									</ul>
 								</h5>
-								<p>“Mehtani is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
+								<p>“Mughlai is the first Indian to receive the award, for consistently excelling in restaurant quality and service, though it has been around for more than 30 years. Two people are honored each year. The NJRA represents 23,000 eating and drinking establishments.”</p>
 								<a href="#" class="classicButton">Read More</a>
 							</div>
 						</div>

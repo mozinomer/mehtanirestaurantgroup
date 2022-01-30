@@ -33,25 +33,25 @@
 						<ul>
 							<li>
 								<a href="<?php the_permalink(); ?>">
-									<h4>Sneh Mehtani wins NJ hospitality award</h4>
+									<h4>Sneh Mughlai wins NJ hospitality award</h4>
 									<p>2015-06-08 15:51:48</p>
 								</a>
 							</li>
 							<li>
 								<a href="<?php the_permalink(); ?>">
-									<h4>Sneh Mehtani wins NJ hospitality award</h4>
+									<h4>Sneh Mughlai wins NJ hospitality award</h4>
 									<p>2015-06-08 15:51:48</p>
 								</a>
 							</li>
 							<li>
 								<a href="<?php the_permalink(); ?>">
-									<h4>Sneh Mehtani wins NJ hospitality award</h4>
+									<h4>Sneh Mughlai wins NJ hospitality award</h4>
 									<p>2015-06-08 15:51:48</p>
 								</a>
 							</li>
 							<li>
 								<a href="<?php the_permalink(); ?>">
-									<h4>Sneh Mehtani wins NJ hospitality award</h4>
+									<h4>Sneh Mughlai wins NJ hospitality award</h4>
 									<p>2015-06-08 15:51:48</p>
 								</a>
 							</li>

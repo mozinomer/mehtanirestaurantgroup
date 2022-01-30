@@ -23,78 +23,43 @@ get_header(); ?>
 			<span>Our</span> Locations
 		</h2> -->
 		<div class="row align-items-center">
-			<div class="col-md-4">
-				<div class="boxContainer">
-					<div class="imageBackgroundContainer">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
-					</div>
-					<div class="contentboxContainer">
-						<h3>Mirage</h3>
-						<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-						<a href="#"  data-toggle="modal" data-target="#exampleModalLong" class="classicButton">View Details</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="boxContainer">
-					<div class="imageBackgroundContainer">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
-					</div>
-					<div class="contentboxContainer">
-						<h3>Mirage</h3>
-						<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-						<a href="#"  data-toggle="modal" data-target="#exampleModalLong" class="classicButton">View Details</a>
+			
+				<div class="col-md-4">
+					<div class="boxContainer">
+						<div class="imageBackgroundContainer">
+							<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
+						</div>
+						<div class="contentboxContainer">
+							<h3>Mughlai Dallas</h3>
+							<p>With 20 years of experience cooking in the finest restaurants, our chef is excited to present their vision to you and all our guests. Our caring and committed staff make sure you have a fantastic experience with us.</p>
+							<a href="https://mughlaidfw.square.site/" class="classicButton">View Details</a>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="boxContainer">
-					<div class="imageBackgroundContainer">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
-					</div>
-					<div class="contentboxContainer">
-						<h3>Mirage</h3>
-						<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-						<a href="#"  data-toggle="modal" data-target="#exampleModalLong" class="classicButton">View Details</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="boxContainer">
-					<div class="imageBackgroundContainer">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
-					</div>
-					<div class="contentboxContainer">
-						<h3>Mirage</h3>
-						<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-						<a href="#"  data-toggle="modal" data-target="#exampleModalLong" class="classicButton">View Details</a>
+				<div class="col-md-4">
+					<div class="boxContainer">
+						<div class="imageBackgroundContainer">
+							<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
+						</div>
+						<div class="contentboxContainer">
+							<h3>Mughlai Southlake</h3>
+							<p>We have worked to package our meals in a way that lets you bring the quality of our meals into your home. We always love to see you in person, but even when we can't we ensure that your dining experience is top notch!</p>
+							<a href="https://mughlaidfw.square.site/" class="classicButton">View Details</a>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="boxContainer">
-					<div class="imageBackgroundContainer">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
-					</div>
-					<div class="contentboxContainer">
-						<h3>Mirage</h3>
-						<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-						<a href="#"  data-toggle="modal" data-target="#exampleModalLong" class="classicButton">View Details</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="boxContainer">
-					<div class="imageBackgroundContainer">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
-					</div>
-					<div class="contentboxContainer">
-						<h3>Mirage</h3>
-						<p>Mirage, where you experience only the best, and enjoy the top most quality and satisfaction.</p>
-						<a href="#"  data-toggle="modal" data-target="#exampleModalLong" class="classicButton">View Details</a>
+				<div class="col-md-4">
+					<div class="boxContainer">
+						<div class="imageBackgroundContainer">
+							<img src="<?php echo get_template_directory_uri(); ?>/images/1.jpeg">
+						</div>
+						<div class="contentboxContainer">
+							<h3>Mughlai Frisco</h3>
+							<p>We refuse to compromise on quality in our restaurant. That's why we source our fresh ingredients from local farmers' markets. No matter what time of year, you can be sure you're eating the best of the season.</p>
+							<a href="https://mughlaidfw.square.site/" class="classicButton">View Details</a>
+						</div>
 					</div>
 				</div>
-			</div>
 		</div>
 	</div>
 </div>
